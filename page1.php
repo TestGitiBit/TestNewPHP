@@ -5,6 +5,7 @@
 <h1>Nadpis jedna</h1>
 <p>Podle Gitu poznáš programátora.</p>
 <p>Je to dobrý jo jo jo</p>
+<p>noooteeeebooook</p>
 <?php 
 if ($jedem)
 {
