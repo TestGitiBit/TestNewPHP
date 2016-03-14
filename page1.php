@@ -22,6 +22,11 @@ else
 {
 echo("nejedeme");
 }
+function sectiMiTohle($a, $b)
+{
+	$a + $b = $c;
+	return $c;
+}
 </body>
 
 </html>
